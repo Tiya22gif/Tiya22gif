@@ -3,14 +3,17 @@
   Hi! I
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=1000&color=F5EBD7&center=false&vCenter=true&width=300&height=45&lines=am+TIYASHA.;stay+curious.;enjoy+debugging."
-    alt="am TIYASHA. | stay curious. | enjoy debugging."
+    alt="am TIYASHA SHIL. | stay curious. | enjoy debugging."
     align="absmiddle"
   />
 </h1>
 
 <p align="center">
   <a href="https://tiya22gif.github.io/TIYASHA-Tech-Profile/">
-    <img src="https://img.shields.io/badge/My%20Portfolio-F5EBD7?style=for-the-badge&logo=googlechrome&logoColor=4A3B2A&labelColor=4A3B2A" alt="TIYASHA's Tech Profile">
+    <img
+      src="https://img.shields.io/badge/TIYASHA'S%20Tech%20Profile-F5EBD7?style=for-the-badge&logo=googlechrome&logoColor=4A3B2A&labelColor=4A3B2A"
+      alt="TIYASHA's Tech Profile"
+    >
   </a>
 </p>
 
@@ -153,7 +156,10 @@ from developers across the open-source community.
 
 <p align="center">
   <a href="https://tiya22gif.github.io/TIYASHA-Tech-Profile/">
-    <img src="https://img.shields.io/badge/My%20Portfolio-F5EBD7?style=for-the-badge&logo=googlechrome&logoColor=4A3B2A&labelColor=4A3B2A" alt="TIYASHA's Tech Profile">
+    <img
+      src="https://img.shields.io/badge/TIYASHA'S%20Tech%20Profile-F5EBD7?style=for-the-badge&logo=googlechrome&logoColor=4A3B2A&labelColor=4A3B2A"
+      alt="TIYASHA's Tech Profile"
+    >
   </a>
 </p>
 
