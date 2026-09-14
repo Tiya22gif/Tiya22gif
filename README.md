@@ -1,12 +1,22 @@
-<h1 align="center">Hi 👋, I'm Tiyasha</h1>
+
+<h1 align="center">
+  Hi! I
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=1000&color=F5EBD7&center=false&vCenter=true&width=300&height=45&lines=am+TIYASHA.;stay+curious.;enjoy+debugging."
+    alt="am TIYASHA. | stay curious. | enjoy debugging."
+    align="absmiddle"
+  />
+</h1>
+
+<p align="center">
+  <a href="https://tiya22gif.github.io/TIYASHA-Tech-Profile/">
+    <img src="https://img.shields.io/badge/My%20Portfolio-F5EBD7?style=for-the-badge&logo=googlechrome&logoColor=4A3B2A&labelColor=4A3B2A" alt="TIYASHA's Tech Profile">
+  </a>
+</p>
 
 <h3 align="center">
 B.Tech CSE Student | Full Stack Developer | Open Source Contributor
 </h3>
-
-<p align="center">
-I am a consistent tech learner driven by Imagination, Intuition, and Innovation.
-</p>
 
 <p align="center">
   <a href="www.linkedin.com/in/tiyasha-shil-5b7131327">
@@ -125,7 +135,6 @@ from developers across the open-source community.
 - 🌱 GirlScript Summer of Code (GSSoC) Contributor
 - 💻 Open Source Contributions
 - 🚀 Building real-world projects
-- 🧠 Consistently practicing DSA
 - 🌎 Learning through collaboration and contribution
 
 ---
@@ -138,6 +147,12 @@ from developers across the open-source community.
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
+</p>
+
+<p align="center">
+  <a href="https://tiya22gif.github.io/TIYASHA-Tech-Profile/">
+    <img src="https://img.shields.io/badge/My%20Portfolio-F5EBD7?style=for-the-badge&logo=googlechrome&logoColor=4A3B2A&labelColor=4A3B2A" alt="TIYASHA's Tech Profile">
+  </a>
 </p>
 
 ---
